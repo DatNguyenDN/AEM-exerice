@@ -6,3 +6,7 @@
 #
 
 $include "./default_virtualhosts.any"
+"sg.example.com"
+"my.example.com"
+"uk.example.com"
+"de.example.com"
